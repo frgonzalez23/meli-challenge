@@ -1,4 +1,4 @@
-# API AND MUTANTE
+# API MUTANTE
 
 Se requiere de recursos que permitan determinar si secuencias de ADN son mutantes o no.
 
